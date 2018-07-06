@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FormDataSederhana</string>
+    <string name="Nama">Nama</string>
+    <string name="NIK">NIK</string>
+    <string name="Umur">Umur</string>
+    <string name="Alamat">Alamat</string>
+    <string name="Institusi">Institusi</string>
+</resources>
